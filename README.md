@@ -1,4 +1,4 @@
-# A crud web app to send people stored<br> in the backend uplifting words
+# A crud web-app to spread positivity
 
 ## Requirements:
 
