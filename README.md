@@ -2,6 +2,8 @@
 
 ## Requirements:
 
+Store your closest friends and family in a database, and send random nice words. This could be marked as a card, coin or star.
+
 #### Categories:
 
 -Dependable<br>
