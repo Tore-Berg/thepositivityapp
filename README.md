@@ -6,15 +6,18 @@ A crud web app to send people stored in the backend uplifting words
 
 Dependable
 
-Kind
+-Kind
+-Trustworthy
+-A true leader
+-Generous
 
-Trustworthy
+### Inputs in form
 
-A true leader
+-Textbox to write own words  
+-Email to user  
+-Username
 
-Generous
-
-Textbox to write own words
+### Storing data
 
 Database or a headless cms that stores data, recievers. Strapi is the first option, but looking into options.
 
