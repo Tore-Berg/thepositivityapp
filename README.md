@@ -1,32 +1,28 @@
-A crud web app to send people stored in the backend uplifting words
+# A crud web app to send people stored in the backend uplifting words
 
-# Requirements:
+## Requirements:
 
-### Categories:
+#### Categories:
 
-Dependable
+-Dependable<br>
+-Kind<br>
+-Trustworthy<br>
+-A true leader<br>
+-Generous<br>
 
--Kind
--Trustworthy
--A true leader
--Generous
+#### Inputs in form
 
-### Inputs in form
+-Textbox to write own words<br>
+-Email to user<br>  
+-Username<br>
 
--Textbox to write own words  
--Email to user  
--Username
-
-### Storing data
+#### Storing data
 
 Database or a headless cms that stores data, recievers. Strapi is the first option, but looking into options.
 
-### Steps:
+#### Steps in sending to user:
 
-Choose user
-
-Choose "coin" or category
-
-Write nice words
-
-Send to user
+-Choose user<br>
+-Choose "coin" or category<br>
+-Write nice words<br>
+-Send to user<br>
