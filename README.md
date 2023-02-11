@@ -15,7 +15,7 @@ Store your closest friends and family in a database, and send random nice words.
 #### Inputs in form
 
 -Textbox to write own words<br>
--Email to user<br>  
+-Email to user<br>
 -Username<br>
 
 #### Storing data
